@@ -2,7 +2,7 @@
 
 #pragma once
 
-#import <React_RCTAppDelegate/React-RCTAppDelegate-umbrella.h>
+#import <Expo/RCTAppDelegateUmbrella.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
